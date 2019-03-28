@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b9021f97b4b2bc949ad86d0395db320e
+timeCreated: 1487804892
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS-Digital
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4dc393344f59099489c568a34d24c62b, type: 3}
+  - {fileID: 12800000, guid: 3ad8c74ca97700a48a65c1ac2c6df3bd, type: 3}
+  - {fileID: 12800000, guid: 8e4dfb3e23931d645949830ef8f63286, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
